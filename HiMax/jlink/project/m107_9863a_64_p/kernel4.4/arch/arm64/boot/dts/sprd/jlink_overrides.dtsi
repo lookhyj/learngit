@@ -1,0 +1,7 @@
+/* jlink overrides dtsi
+&sprd_backlight {
+       brightness_max = <200>;
+       brightness_min = <8>; 
+};  
+*/
+
