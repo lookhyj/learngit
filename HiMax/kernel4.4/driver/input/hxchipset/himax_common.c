@@ -84,7 +84,7 @@ struct firmware g_embedded_fw = {
 #endif
 
 #if defined(HX_AUTO_UPDATE_FW) || defined(HX_ZERO_FLASH)
-char *i_CTPM_firmware_name = "Himax_firmware.bin";
+char *i_CTPM_firmware_name = "Himax_firmware.bin";//
 bool g_auto_update_flag;
 #endif
 #if defined(HX_AUTO_UPDATE_FW)
