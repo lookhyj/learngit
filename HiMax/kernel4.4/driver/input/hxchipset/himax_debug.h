@@ -13,6 +13,11 @@
  *  GNU General Public License for more details.
  */
 
+
+//update firmware online:
+//adb shell
+//echo t Himax_firmware > debug
+//ok
 #ifndef H_HIMAX_DEBUG
 #define H_HIMAX_DEBUG
 
